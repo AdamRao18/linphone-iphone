@@ -376,6 +376,7 @@ static UICompositeViewDescription *compositeDescription = nil;
 	return YES;
 }
 
+
 #pragma mark - MFComposeMailDelegate
 
 - (void)mailComposeController:(MFMailComposeViewController *)controller
